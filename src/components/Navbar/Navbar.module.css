@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.items {
+  font-size: 14px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainTitle {
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #00aaa1;
+  color: #fff;
+  padding: 2px;
+}
+
+.title {
+  font-size: 16px;
+}

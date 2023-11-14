@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.mainTitle {
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #00aaa1;
+  color: #fff;
+  padding: 2px;
+}
+
+.title {
+  font-size: 16px;
+}
